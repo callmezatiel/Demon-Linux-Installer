@@ -1,4 +1,4 @@
-# Demon-Linux-Installer
+# Siren-Linux-Installer
 
 https://www.demonlinux.com
 
