@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=siren Linux Installer
+Comment=Install the siren to a Hard Disk
+Exec=siren-installer.sh
+Icon=/usr/share/siren/images/icons/siren-install-icon.png
+StartupNotify=false
+Categories=sirenlinux
